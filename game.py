@@ -1,5 +1,5 @@
 print("Math Game")
-
+ 
 score = 0
 
 # Question 1
